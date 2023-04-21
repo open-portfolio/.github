@@ -2,11 +2,15 @@
 
 A family of libraries and applications, written in Swift, for the do-it-yourself investor.
 
+The _Open Portfolio Project_ is part of the _OpenAlloc_ family of open source Swift software applications and libraries.
+
 * [_OpenAlloc_](https://openalloc.github.io/) - main product website
 
 ## Portfolio App Project
 
 Apps for rebalancing a portfolio and tracking its value over time, for macOS.
+
+These are available on the App Store as **free** downloads for macOS.
 
 ### Flow Allocator
 
