@@ -13,14 +13,14 @@ Apps for rebalancing a portfolio and tracking its value over time, for macOS.
 A portfolio rebalancing tool.
 
 * [FlowAllocator](https://openalloc.github.io/FlowAllocator/) - product website
-* [FlowAllocator Project](https://github.com/openalloc/FlowAllocatorApp/) - Github site for the development project, including full source code
+* [FlowAllocator Project](https://github.com/open-portfolio/FlowAllocatorApp/) - Github site for the development project, including full source code
 
 ### Flow Worth
 
 A tool for tracking the value and performance of a portfolio over time.
 
 * [FlowWorth](https://openalloc.github.io/FlowWorth/) - product website
-* [FlowWorth Project](https://github.com/openalloc/FlowWorthApp/) - Github site for the development project, including full source code
+* [FlowWorth Project](https://github.com/open-portfolio/FlowWorthApp/) - Github site for the development project, including full source code
 
 They are formerly proprietary applications now fully open-sourced as of August 2022. 
 
@@ -30,8 +30,8 @@ Swift libraries written principally to support the apps above, available as Swif
 
 ### Financial data import
 
-* [AllocData](https://github.com/openalloc/AllocData) - standardized data formats for investing-focused apps and tools
-* [FINporter](https://github.com/openalloc/FINporter) - library and command-line tool to transform various specialized finance-related formats to the standardized schema of AllocData
+* [AllocData](https://github.com/open-portfolio/AllocData) - standardized data formats for investing-focused apps and tools
+* [FINporter](https://github.com/open-portfolio/FINporter) - library and command-line tool to transform various specialized finance-related formats to the standardized schema of AllocData
 
 * TODO list other libraries here
 
@@ -46,6 +46,18 @@ As an open source project, we depend on our community of users (and eventually d
 Future portfolio apps to add to the family are certainly possible, should good ideas emerge.
 
 To report a bug or suggest a feature, add an Issue to the relevant Github project.
+
+## XCode Setup
+
+See the [Workspace](https://github.com/open-portfolio/Workspace) repository for a handy Xcode workspace that contains most of the repositories.
+
+## See also
+
+* [_OpenAlloc_](https://openalloc.github.io/) - main product website
+
+* [OpenAlloc Project](https://github.com/openalloc/) - re-useable Swift libraries
+* [Open Portfolio Project](https://github.com/open-portfolio/) - investing apps for macOS
+* [Open Trackers Project](https://github.com/open-trackers/) - fitness, nutrition, and productivity apps for iPhone, iPad, and Apple Watch
 
 ## License
 
