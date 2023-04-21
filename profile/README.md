@@ -28,12 +28,31 @@ They are formerly proprietary applications now fully open-sourced as of August 2
 
 Swift libraries written principally to support the apps above, available as Swift Packages.
 
+### Application Dependencies
+
+* [FlowUI](https://github.com/open-portfolio/FlowUI) - shared UI support for the _FlowAllocator_ and _FlowWorth_ apps
+* [FlowAllocHigh](https://github.com/open-portfolio/FlowAllocHigh) - high-level support for the _FlowAllocator_ app
+* [FlowAllocLow](https://github.com/open-portfolio/FlowAllocLow) - low-level support for the _FlowAllocator_ app
+* [FlowWorthLib](https://github.com/open-portfolio/FlowWorthLib) - support for the _FlowWorth_ app
+* [FlowBase](https://github.com/open-portfolio/FlowBase) - shared support for the _FlowAllocator_ and _FlowWorth_ apps
+* [FlowStats](https://github.com/open-portfolio/FlowStats) - shared stats support for the _FlowAllocator_ and _FlowWorth_ apps
+* [FlowViz](https://github.com/open-portfolio/FlowViz) - shared visualization components for the _FlowAllocator_ and _FlowWorth_ apps
+* [FlowXCT](https://github.com/open-portfolio/FlowXCT) - shared testing components for the _FlowAllocator_ and _FlowWorth_ apps
+
 ### Financial data import
+
+The libraries which focus on importing financial data, such as exports from specific brokerages, are available independently for re-use.
 
 * [AllocData](https://github.com/open-portfolio/AllocData) - standardized data formats for investing-focused apps and tools
 * [FINporter](https://github.com/open-portfolio/FINporter) - library and command-line tool to transform various specialized finance-related formats to the standardized schema of AllocData
 
-* TODO list other libraries here
+The rest of the _FINporter_ dependencies:
+
+* [FINporterCLI](https://github.com/open-portfolio/FINporterCLI) - the command-line interface (CLI) incorporating supported importers
+* [FINporterChuck](https://github.com/open-portfolio/FINporterChuck) - importers for the Schwab brokerage
+* [FINporterFido](https://github.com/open-portfolio/FINporterFido) - importers for the Fidelity brokerage
+* [FINporterAllocSmart](https://github.com/open-portfolio/FINporterAllocSmart) - importer for the Allocate Smartly service
+* [FINporterTabular](https://github.com/open-portfolio/FINporterTabular) - importer for transforming the AllocData schema
 
 ## Your Participation is Essential
 
