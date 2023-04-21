@@ -1,6 +1,6 @@
 # Welcome to the _Open Portfolio Project_!
 
-The _Open Portfolio Project_ is part of the [_OpenAlloc_](https://github.com/openalloc/) family of investing applications for macOS.
+The _Open Portfolio Project_ is part of the [_OpenAlloc_](https://github.com/openalloc/) family of applications and re-useable libraries.
 
 ## Portfolio App Project
 
