@@ -1,10 +1,6 @@
-# Welcome to the _Open Portfolio_ project!
+# Welcome to the _Open Portfolio Project_!
 
-A family of libraries and applications, written in Swift, for the do-it-yourself investor.
-
-The _Open Portfolio Project_ is part of the _OpenAlloc_ family of open source Swift software applications and libraries.
-
-* [_OpenAlloc_](https://openalloc.github.io/) - main product website
+The _Open Portfolio Project_ is part of the [_OpenAlloc_](https://github.com/openalloc/) family of investing applications for macOS.
 
 ## Portfolio App Project
 
