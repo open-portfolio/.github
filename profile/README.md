@@ -8,21 +8,21 @@ Apps for rebalancing a portfolio and tracking its value over time, for macOS.
 
 These are available on the App Store as **free** downloads for macOS.
 
+They are formerly proprietary applications now fully open-sourced as of August 2022. 
+
 ### Flow Allocator
 
 A portfolio rebalancing tool.
 
-* [FlowAllocator](https://openalloc.github.io/FlowAllocator/) - product website
+* [FlowAllocator](https://open-portfolio.github.io/FlowAllocator/) - product website
 * [FlowAllocator Project](https://github.com/open-portfolio/FlowAllocatorApp/) - Github site for the development project, including full source code
 
 ### Flow Worth
 
 A tool for tracking the value and performance of a portfolio over time.
 
-* [FlowWorth](https://openalloc.github.io/FlowWorth/) - product website
+* [FlowWorth](https://open-portfolio.github.io/FlowWorth/) - product website
 * [FlowWorth Project](https://github.com/open-portfolio/FlowWorthApp/) - Github site for the development project, including full source code
-
-They are formerly proprietary applications now fully open-sourced as of August 2022. 
 
 ## Libraries
 
@@ -72,11 +72,26 @@ See the [Workspace](https://github.com/open-portfolio/Workspace) repository for 
 
 ## See also
 
-* [_OpenAlloc_](https://openalloc.github.io/) - main product website
+### OpenAlloc Libraries
 
-* [OpenAlloc Project](https://github.com/openalloc/) - re-useable Swift libraries
-* [Open Portfolio Project](https://github.com/open-portfolio/) - investing apps for macOS
-* [Open Trackers Project](https://github.com/open-trackers/) - fitness, nutrition, and productivity apps for iPhone, iPad, and Apple Watch
+Re-useable Swift libraries for multiple platforms.
+
+* [_OpenAlloc Libraries_](https://openalloc.github.io/) - _OpenAlloc Libraries_ product website
+* [_OpenAlloc Libraries_ Project](https://github.com/openalloc/) - Github site for the development project, including full source code
+
+### Open Trackers
+
+Fitness, nutrition, and productivity apps for iPhone, iPad, and Apple Watch.
+
+* [_Open Trackers_](https://open-trackers.github.io/) - _Open Trackers_ product website
+* [_Open Trackers_ Project](https://github.com/open-trackers/) - Github site for the development project, including full source code
+
+### Open Portfolio
+
+Investing apps for macOS.
+
+* [_Open Portfolio_](https://open-portfolio.github.io/) - _Open Portfolio_ product website
+* [_Open Portfolio_ Project](https://github.com/open-portfolio/) - Github site for the development project, including full source code
 
 ## License
 
