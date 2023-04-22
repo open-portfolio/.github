@@ -14,14 +14,14 @@ They are formerly proprietary applications now fully open-sourced as of August 2
 
 A portfolio rebalancing tool.
 
-* [FlowAllocator](https://open-portfolio.github.io/FlowAllocator/) - product website
+* [FlowAllocator](https://open-portfolio.github.io/allocator/) - product website
 * [FlowAllocator Project](https://github.com/open-portfolio/FlowAllocatorApp/) - Github site for the development project, including full source code
 
 ### Flow Worth
 
 A tool for tracking the value and performance of a portfolio over time.
 
-* [FlowWorth](https://open-portfolio.github.io/FlowWorth/) - product website
+* [FlowWorth](https://open-portfolio.github.io/worth/) - product website
 * [FlowWorth Project](https://github.com/open-portfolio/FlowWorthApp/) - Github site for the development project, including full source code
 
 ## Libraries
