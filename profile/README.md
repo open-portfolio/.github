@@ -30,14 +30,14 @@ Swift libraries written principally to support the apps above, available as Swif
 
 ### Application Dependencies
 
-* [FlowUI](https://github.com/open-portfolio/FlowUI) - shared UI support for the _FlowAllocator_ and _FlowWorth_ apps
+* [FlowUI](https://github.com/open-portfolio/FlowUI) - shared UI support for the apps
 * [FlowAllocHigh](https://github.com/open-portfolio/FlowAllocHigh) - high-level support for the _FlowAllocator_ app
 * [FlowAllocLow](https://github.com/open-portfolio/FlowAllocLow) - low-level support for the _FlowAllocator_ app
 * [FlowWorthLib](https://github.com/open-portfolio/FlowWorthLib) - support for the _FlowWorth_ app
-* [FlowBase](https://github.com/open-portfolio/FlowBase) - shared support for the _FlowAllocator_ and _FlowWorth_ apps
-* [FlowStats](https://github.com/open-portfolio/FlowStats) - shared stats support for the _FlowAllocator_ and _FlowWorth_ apps
-* [FlowViz](https://github.com/open-portfolio/FlowViz) - shared visualization components for the _FlowAllocator_ and _FlowWorth_ apps
-* [FlowXCT](https://github.com/open-portfolio/FlowXCT) - shared testing components for the _FlowAllocator_ and _FlowWorth_ apps
+* [FlowBase](https://github.com/open-portfolio/FlowBase) - shared support for the apps
+* [FlowStats](https://github.com/open-portfolio/FlowStats) - shared stats support for the apps
+* [FlowViz](https://github.com/open-portfolio/FlowViz) - shared visualization components for the apps
+* [FlowXCT](https://github.com/open-portfolio/FlowXCT) - shared testing components for the apps
 
 ### Financial data import
 
