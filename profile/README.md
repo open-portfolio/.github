@@ -14,15 +14,15 @@ They are formerly proprietary applications now fully open-sourced as of August 2
 
 A portfolio rebalancing tool.
 
-* [FlowAllocator](https://open-portfolio.github.io/allocator/) - product website
-* [FlowAllocator Project](https://github.com/open-portfolio/FlowAllocatorApp/) - Github site for the development project, including full source code
+* [Flow Allocator](https://open-portfolio.github.io/allocator/) - product website
+* [Flow Allocator Project](https://github.com/open-portfolio/Flow-Allocator-App/) - Github site for the development project, including full source code
 
 ### Flow Worth
 
 A tool for tracking the value and performance of a portfolio over time.
 
-* [FlowWorth](https://open-portfolio.github.io/worth/) - product website
-* [FlowWorth Project](https://github.com/open-portfolio/FlowWorthApp/) - Github site for the development project, including full source code
+* [Flow Worth](https://open-portfolio.github.io/worth/) - product website
+* [Flow Worth Project](https://github.com/open-portfolio/Flow-Worth-App/) - Github site for the development project, including full source code
 
 ## Libraries
 
@@ -31,9 +31,9 @@ Swift libraries written principally to support the apps above, available as Swif
 ### Application Dependencies
 
 * [FlowUI](https://github.com/open-portfolio/FlowUI) - shared UI support for the apps
-* [FlowAllocHigh](https://github.com/open-portfolio/FlowAllocHigh) - high-level support for the _FlowAllocator_ app
-* [FlowAllocLow](https://github.com/open-portfolio/FlowAllocLow) - low-level support for the _FlowAllocator_ app
-* [FlowWorthLib](https://github.com/open-portfolio/FlowWorthLib) - support for the _FlowWorth_ app
+* [FlowAllocHigh](https://github.com/open-portfolio/FlowAllocHigh) - high-level support for the _Flow Allocator_ app
+* [FlowAllocLow](https://github.com/open-portfolio/FlowAllocLow) - low-level support for the _Flow Allocator_ app
+* [FlowWorthLib](https://github.com/open-portfolio/FlowWorthLib) - support for the _Flow Worth_ app
 * [FlowBase](https://github.com/open-portfolio/FlowBase) - shared support for the apps
 * [FlowStats](https://github.com/open-portfolio/FlowStats) - shared stats support for the apps
 * [FlowViz](https://github.com/open-portfolio/FlowViz) - shared visualization components for the apps
